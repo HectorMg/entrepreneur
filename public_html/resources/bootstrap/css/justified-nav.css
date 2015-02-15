@@ -14,6 +14,15 @@ body {
   border-top: 1px solid #eee;
 }
 
+.qs-col-1 {
+  float: left;
+  display: inline;
+}
+.qs-col-2 {
+  margin-right: -100px;
+  width: 50%;
+}
+
 /* Main marketing message and sign up button */
 
 .jumbotron {

@@ -95,17 +95,16 @@
       <!-- Example row of columns -->
       
       <div id ="qs" class="row">
-        <div class="col-lg-15">
+        <div class="col-md-6 qs-col-1">
           <h2 id="subtitle-home">¿Quiénes somos?</h2>
           <p style="font-size: 30px">Somos un nuevo grupo estudiantil que tiene como objetivo desarrollar e impulsar el carácter emprendedor de cada alumno participante dentro de la Prepa Tec CSC.</p>
           
         </div>
-      </div>
-
-      <div class="col-md-10">
-          <a class="twitter-timeline" href="https://twitter.com/CscEntrepreneur" data-widget-id="566670181439508480">Tweets de @CscEntrepreneur</a>
-          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+         <div class="col-md-6 qs-col-2">
+          <a class="twitter-timeline" href="https://twitter.com/CscEntrepreneur" data-widget-id="566764971468394496">Tweets de @CscEntrepreneur</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         </div>
+      </div>
 
       <!-- Site footer -->
       <footer class="footer">
